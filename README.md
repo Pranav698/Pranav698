@@ -24,7 +24,7 @@
 ```typescript
 const pranav = {
   title: "Cloud, Linux and DevOps Enthusiast",
-  stack: ["Linux", "Python", "Terminal", "AWS"],
+  stack: ["Linux", "Java", "Terminal", "AWS"],
   launchedProjects: [], // 🚧 currently building my first ones
   certifications: [], // 🎯 working towards AWS Cloud Practitioner (CLF-C02)
   status: "Currently in learning phase 📚",
